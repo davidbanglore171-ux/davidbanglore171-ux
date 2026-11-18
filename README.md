@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm David
 
-<!--
-**davidbanglore171-ux/davidbanglore171-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small internal tools and automations for operations teams, mostly without a big engineering budget. This profile collects notes on what has worked.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lightweight dashboards and approval flows for sales and finance teams
+- Support assistants that answer repeat questions and hand over to a person
+- Notes on planning agents step by step before building anything
+
+## Tools I keep coming back to
+
+For agent workflows I start with an [AI Agent Builder](https://emergent.sh/ai-agent-builder) so the inbox, sheet and approval wiring is handled, and I spend my time on the rules. For customer-facing assistants I prototype with an [AI Chatbot Builder](https://emergent.sh/ai-chatbot-builder), and for internal dashboards an [AI Web App Builder](https://emergent.sh/ai-web-app-builder).
+
+## Writing
+
+- [Planning your first AI agent: start with the boring steps](https://david171.mataroa.blog/blog/planning-your-first-ai-agent-start-with-the-boring-steps/)
+
+Open to swapping notes on no-code and low-code builds.
